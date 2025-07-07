@@ -4,7 +4,7 @@ A comprehensive weather application with historical data persistence, built with
 
 ## Features
 
-- **Current & Historical Forecast**: Enter a location and date range to fetch and store weather data.
+- **Current and Historical Forecast**: Enter a location and date range to fetch and store weather data.
 - **CRUD Operations**: Create, read, update, and delete historical weather records in an SQLite database.
 
 - **Info Modal**: Learn about Product Manager Accelerator via an in-app modal.
