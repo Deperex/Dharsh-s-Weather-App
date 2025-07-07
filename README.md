@@ -15,7 +15,7 @@ A comprehensive weather application with historical data persistence, built with
 - **Database**: SQLite (`weather.db`)
 - **Frontend**: React, Axios, CSS
 
-### Backend Setup
+## Backend Setup
 
 1. **Navigate to the backend folder**
    cd weather_backend
@@ -35,7 +35,7 @@ A comprehensive weather application with historical data persistence, built with
 4. **Start the server | Once again run in weather-frontend directory**
    npm start
 
-### Author 
+## Author 
 Dharsh Nagrani
    
    
