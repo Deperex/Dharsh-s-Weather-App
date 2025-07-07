@@ -18,11 +18,24 @@ A comprehensive weather application with historical data persistence, built with
 ### Backend Setup
 
 1. **Navigate to the backend folder**
-   cd weather-backend
+   cd weather_backend
 2. **Create and activate a virtual environement**
    python -m venv venv
    source venv/bin/activate
 3. **Install dependencies**
    pip install -r requirements.txt
 
+## Frontend Setup
+1. **Navigate to the frontend folder**
+   cd weather-frontend
+2. **Install Dependencies**
+   npm install
+3. **Add to package-json**
+   Under "name" line add "proxy" : "http://127.0.0.1:5000"
+4. **Start the server | Once again run in weather-frontend directory**
+   npm start
+
+### Author 
+Dharsh Nagrani
+   
    
